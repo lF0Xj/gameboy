@@ -1,7 +1,7 @@
 *{box-sizing: border-box;}
 @font-face {
     font-family: pretendo;
-    src: url(/Pretendo.ttf);
+    src: url(assets/fonts/Pretendo.ttf);
 }
 .body{
 padding: 0.1px;
